@@ -5,7 +5,7 @@
 <pre>
 AI
 
-Frotend
+Frontend
 
 Backend
 
